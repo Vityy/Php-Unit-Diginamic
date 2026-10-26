@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/mon-projet-tests/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/mon-projet-tests/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/mon-projet-tests/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/mon-projet-tests/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/mon-projet-tests/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/mon-projet-tests/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/mon-projet-tests/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/mon-projet-tests/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/mon-projet-tests/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/mon-projet-tests/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/mon-projet-tests/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/mon-projet-tests/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/mon-projet-tests/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/mon-projet-tests/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/mon-projet-tests/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/mon-projet-tests/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/mon-projet-tests/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/mon-projet-tests/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/mon-projet-tests/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/mon-projet-tests/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/mon-projet-tests/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/mon-projet-tests/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/mon-projet-tests/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/mon-projet-tests/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/mon-projet-tests/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/mon-projet-tests/vendor/staabm/side-effects-detector" />
+      <excludeFolder url="file://$MODULE_DIR$/mon-projet-tests/vendor/theseer/tokenizer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

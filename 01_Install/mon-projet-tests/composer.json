@@ -1,0 +1,12 @@
+{
+    "name": "miand/mon-projet-tests",
+    "authors": [
+        {
+            "name": "Vityy",
+            "email": "ygensoftvd@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "13"
+    }
+}
