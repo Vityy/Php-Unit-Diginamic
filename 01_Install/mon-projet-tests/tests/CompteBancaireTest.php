@@ -74,4 +74,18 @@ class CompteBancaireTest extends TestCase
         $this->assertEquals(100.0, $account1->getSolde());
         $this->assertEquals(0.0, $account2->getSolde());
     }
+
+    public function testTitulaireVideLanceException(): void
+    {
+        $this->expectException(InvalidArgumentException::class);
+        $this->expectExceptionMessage('Le titulaire ne peut pas être vide.');
+        $account = new CompteBancaire('');
+    }
+
+    public function testSoldeInitialNegatifLanceException(): void
+    {
+        $this->expectException(InvalidArgumentException::class);
+        $this->expectExceptionMessage('Le solde initial ne peut pas être négatif.');
+        $account = new CompteBancaire('Alice', -1.0);
+    }
 }
